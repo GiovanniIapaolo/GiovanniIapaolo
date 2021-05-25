@@ -25,7 +25,7 @@
 📌 Safety and trust <br>
 💻 Self-development skills to keep up to date with fast-changing trends <br>
 🚀 Shared understanding <br>
-📑 An understanding of the latest trends and their role in a commercial environment<br>
+📑 An understanding of the latest trends and their role in a commercial environment
 
 
 # How I work
@@ -36,4 +36,4 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 E-mail: <b>giovanniiapaolo6@gmail.com</b> <br>
 GitHub: <b>https://github.com/GiovanniIapaolo</b> <br>
-LinkedIn: <b>https://www.linkedin.com/in/giovanni-iapaolo-10853520a/</b> <br>
+LinkedIn: <b>https://www.linkedin.com/in/giovanni-iapaolo-10853520a/</b>
