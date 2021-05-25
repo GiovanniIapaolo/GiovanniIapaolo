@@ -4,6 +4,15 @@
 ![CSS](https://img.shields.io/badge/CSS-orange?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
 
+My values
+.
+.
+.
+
+
+How I work
+My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what'is in my brain. 👨🏽‍💻
+
 📫 Get in Touch
 
 - GitHub: https://github.com/GiovanniIapaolo
