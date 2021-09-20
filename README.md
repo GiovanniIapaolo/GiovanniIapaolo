@@ -13,10 +13,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-336633?style=flat&logo=Node.js)
 ![React](https://img.shields.io/badge/React-282c34?style=flat&logo=React)
 ![Angular](https://img.shields.io/badge/Angular-b52e31?style=flat&logo=Angular)
-![Vue.js](https://img.shields.io/badge/Vue.js-41b883?style=flat&logo=Vue-js)
 ![WordPress](https://img.shields.io/badge/WordPress-0073aa?style=flat&logo=WordPress)
 ![Java](https://img.shields.io/badge/Java-f89820?style=flat&logo=Java)
-![DevOps](https://img.shields.io/badge/DevOps-008ad7?style=flat&logo=DevOps)
 ![Linux](https://img.shields.io/badge/Linux-a1a1a4?style=flat&logo=Linux)
 ![Raspberry](https://img.shields.io/badge/Raspberry-a22846?style=flat&logo=Raspberry-Pi)
 
