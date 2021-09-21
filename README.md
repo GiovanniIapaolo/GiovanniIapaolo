@@ -6,10 +6,10 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 ### My values
 
-- 📌 Safety and trust.
-- 💻 Self-development skills to keep up to date with fast-changing trends.
-- 🚀 Shared understanding.
-- 📑 An understanding of the latest trends and their role in a commercial environment.
+- 📌 Safety and trust
+- 💻 Self-development skills to keep up to date with fast-changing trends
+- 🚀 Shared understanding
+- 📑 An understanding of the latest trends and their role in a commercial environment
 
 ### Get in Touch 📫</b>
 
