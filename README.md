@@ -11,7 +11,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 - 🚀 Shared understanding
 - 📑 An understanding of the latest trends and their role in a commercial environment
 
-### Get in Touch 📫</b>
+### 📑 Get in Touch</b>
 
 - E-mail: giovanniiapaolo6@gmail.com
 - GitHub: https://github.com/GiovanniIapaolo
