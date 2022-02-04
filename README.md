@@ -1,4 +1,4 @@
-# Hello, I'm Giovanni Iapaolo 👋
+# 👋🏼 Hi, my name is Giovanni
 
 ### My values
 
